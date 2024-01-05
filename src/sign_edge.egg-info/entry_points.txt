@@ -1,0 +1,2 @@
+[console_scripts]
+sign-edge = sign_edge.cli.canny:main

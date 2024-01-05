@@ -1,0 +1,2 @@
+click>=8.1.7
+scikit-image>=0.22.0

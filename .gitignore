@@ -1,0 +1,7 @@
+# Virtualenv
+.venv/
+
+# Visual Studio Code files
+.vs
+/.vscode/*
+!/.vscode/extensions.json
