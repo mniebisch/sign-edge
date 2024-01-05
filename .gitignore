@@ -1,0 +1,16 @@
+# Package files
+*.egg
+*.eggs/
+.installed.cfg
+*.egg-info
+
+# Temporary and binary files
+__pycache__/
+
+# Virtualenv
+.venv/
+
+# Visual Studio Code files
+.vs
+/.vscode/*
+!/.vscode/extensions.json
